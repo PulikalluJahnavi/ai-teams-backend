@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "Janu@1998",
+    "database": "ai-teams-manager",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "Janu@1998",
+    "database": "ai-teams-manager",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "Janu@1998",
+    "database": "ai-teams-manager",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
